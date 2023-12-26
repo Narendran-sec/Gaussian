@@ -47,7 +47,8 @@ for i in range (n):
 ```
 
 ## Output:
-![Alt text](<Guassian output.png>)
+![Guassian output](https://github.com/Narendran-sec/Gaussian/assets/147473131/255f793b-e892-4554-b87b-b559d40ec7c7)
+
 
 
 ## Result:
